@@ -1,0 +1,46 @@
+#banner, #navcolumn, #extracolumn, #actions, #breadcrumb, #footer, #search, #siteactions {
+ display:none;
+}
+#body {
+  font-family: Georgia, "Bitstream Vera Serif", "New York", Palatino, serif;
+  font-size:11pt;
+}
+#body a {
+  color: #000000;
+  text-decoration:none;
+  display:inline;
+  font-weight: bold;
+}
+#body pre {
+  font-size:10pt;
+}
+#body h1 {
+  font-size:14pt;
+}
+#body h2 {
+  font-size:13pt;
+}
+#body h3, h4, h5 {
+  font-size:12pt;
+}
+#body p {
+ margin: 1em;
+}
+#body img {
+ margin: 0em 1em;
+}
+#body div.section {
+ padding-top: 1em;
+}
+div#gallery ul {
+display: none;
+}
+div#galleryview a.buttons {
+display: none;
+}
+div#galleryview a#previous {
+display: none;
+}
+div#galleryview a#next {
+display: none;
+}
